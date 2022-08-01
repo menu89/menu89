@@ -38,6 +38,7 @@ She/Her/Hers
 ### 🔭 I’m currently working on
 
 my-web-accountant :: [client](https://github.com/menu89/fatima-abrar-client-my-web-accoutant-capstone), [server](https://github.com/menu89/fatima-abrar-server-my-web-accoutant-capstone)
+The project itself is complete for anyone who wants to download it to their system and run it locally. Currently trying to troubleshoot issues with deployment.
 
 <section>
 
